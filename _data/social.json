@@ -3,17 +3,17 @@
     {
       "title": "Twitter",
       "icon": "fa-twitter",
-      "url": "https://twitter.com/"
+      "url": "https://twitter.com/specstacle"
     },
     {
-      "title": "Instagram",
+      "title": "Personal Instagram",
       "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.instagram.com/awkwardmomentsofsilence/"
     },
     {
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "title": "Design Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/merelymakingthings/"
     }
   ]
 }
