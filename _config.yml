@@ -12,7 +12,7 @@ lang: en-GB
 title: "awkward moments of silence"
 
 # A description of your site for meta tag, search engine results.
-description: "A blog about books, mostly, because people are confusing."
+description: "A blog about books, mostly."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
