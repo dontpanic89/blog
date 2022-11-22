@@ -3,7 +3,7 @@ layout: post
 title: "Project Re.Cover #1 – The Abominable by Dan Simmons"
 description: Where I make new covers for books I’ve read, because I can.
 date: 2022-11-15
-feature_image: images/re-cover_1_Simmons_original.jpg
+feature_image: images/re-cover_1_simmons_original.jpg
 tags: [design journey, project re-cover]
 ---
 
@@ -26,7 +26,7 @@ And what I'd wanted to read was something very much in the vein of Michelle Pave
 
 I’m just starting out, so: yes, I’m copying.
 
-{% include image_caption.html imageurl="/images/re-cover_1_simmons_process.jpg" title="the final cover" %}
+{% include image_caption.html imageurl="/images/re-cover_1_simmons_process.jpg" title="previous covers and inspiration" %}
 
 ### Process
 There was none for this cover. When work was slow one Friday, I just opened Photoshop and started playing around. There were no sketches, no notes. My only thought was to make the cover of the book I would have liked to read, and the cover that I, were I the publisher, would commission to lure in more clueless horror fans like me.
