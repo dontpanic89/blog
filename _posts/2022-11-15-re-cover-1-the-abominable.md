@@ -3,7 +3,7 @@ layout: post
 title: "Project Re.Cover #1 – The Abominable by Dan Simmons"
 description: Where I make new covers for books I’ve read, because I can.
 date: 2022-11-15
-feature_image: images/re-cover_1_simmons_original.jpg
+feature_image: images/re-cover_1_Simmons_original.jpg
 tags: [design journey, project re-cover]
 ---
 
@@ -26,7 +26,7 @@ And what I'd wanted to read was something very much in the vein of Michelle Pave
 
 I’m just starting out, so: yes, I’m copying.
 
-{% include image_caption.html imageurl="/images/re-cover_1_simmons_process.jpg" title="previous covers and inspiration" %}
+{% include image_caption.html imageurl="/images/re-cover_1_Simmons_process.jpg" title="previous covers and inspiration" %}
 
 ### Process
 There was none for this cover. When work was slow one Friday, I just opened Photoshop and started playing around. There were no sketches, no notes. My only thought was to make the cover of the book I would have liked to read, and the cover that I, were I the publisher, would commission to lure in more clueless horror fans like me.
@@ -36,13 +36,13 @@ Here's the fun, because now that I'm writing it up weeks later I'm figuring out 
 
 *deep sigh* ... ANYWAY – from there on things fell into place fairly quickly with a single font, some motion blur, a [gorgeous photo of ice](https://unsplash.com/photos/L0rxoED50k0) for some visual interest in the background, a paper texture for aging, and some Rule of Thirds-arranging of objects. In the end, I decided to copy the red dot from the other editions of the book, which added a nice splash of colour.
 
-{% include image_caption.html imageurl="/images/re-cover_1_simmons_1.jpg" title="the final cover" %}
+{% include image_caption.html imageurl="/images/re-cover_1_Simmons_1.jpg" title="the final cover" %}
 
 ### Final result
 I mean. I don’t hate this at all. Is it original? Not much; looking at it now, I copied more from the Michelle Paver book than I expected I would. Would I pick it up if I saw it in store? Absolutely.
 In fact, I liked it so much that I made an additional cover for *The Terror* featuring a stunning photo I’d found of frozen ice which, rotated just so, had this gorgeously menacing and violent look that goes so well with the word “terror”. I kept the red dot for coherence so you could get them in a set, and here we are.
 
-{% include image_caption.html imageurl="/images/re-cover_1_simmons_2.jpg" title="both final covers" caption="Do I notice the slight misalignment of the top and bottom lines? Yes. Do I have regrets? Yes. Will I fix it? Only if someone pays me." %}
+{% include image_caption.html imageurl="/images/re-cover_1_Simmons_2.jpg" title="both final covers" caption="Do I notice the slight misalignment of the top and bottom lines? Yes. Do I have regrets? Yes. Will I fix it? Only if someone pays me." %}
 
 #### Images used
 For *The Abominable*
