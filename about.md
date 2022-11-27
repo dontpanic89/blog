@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this blog
-description:
+description: 
 feature_image:
 ---
 
