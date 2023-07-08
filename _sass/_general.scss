@@ -24,7 +24,7 @@ body {
   color: _palette(primary);
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  line-height: 1.66667;
+  line-height: 1.3em;
   padding-left: 30px;
   padding-right: 30px;
 }
@@ -60,7 +60,6 @@ h6 {
 h1 {
   font-size: 2rem;
   line-height: 1.11111;
-  letter-spacing: -1px;
 
   @media only screen and (max-width: 600px) {
     font-size: 1.875rem;
@@ -71,7 +70,6 @@ h1 {
 
 h2 {
   font-size: 1.66667rem;
-  letter-spacing: -1px;
 
   @media only screen and (max-width: 600px) {
     font-size: 1.5rem;
@@ -101,6 +99,7 @@ h6 {
 
 p {
   margin: 0 0 1.66667em;
+  font-size: 0.88889rem;
 }
 
 address {
@@ -155,6 +154,7 @@ blockquote {
   }
 
   p {
+    font-size: 0.88889rem;
     margin: 0 0 0.83333em;
   }
 

@@ -14,7 +14,7 @@
 .post-date {
   color: _palette(primary);
   display: inline-block;
-  font-size: 14px;
+  font-size: 0.88889rem;
   font-weight: bold;
   margin-bottom: 1.25em;
 }
@@ -35,7 +35,7 @@
 }
 
 .post-title {
-  font-size: 2rem;
+  font-size: 1.5em;
   margin: 0 0 1rem;
 
   @media only screen and (max-width: 600px) {
