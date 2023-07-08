@@ -4,7 +4,7 @@ title: "On ‘lost time’, productivity, and a challenge"
 description:
 date: 2023-04-17
 feature_image: images/2023-04-17.jpg
-tags: [design journey]
+tags: [intermittent dopamine fast]
 ---
 
 Well, it sure has been quiet over here!
