@@ -29,10 +29,10 @@
   }
 
   a {
-    color: _palette(primary);
+    color: _palette(link);
     text-decoration: none;
     &:hover {
-      color: _palette(accent);
+      color: _palette(secondary);
     }
   }
 }
